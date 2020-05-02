@@ -10,3 +10,5 @@
 - git diff <filename>:looks at differences between current state and previous commits
 		-git diff HEAD~2 <filename>: looks at differences between current state (HEAD) and the last 2 commits 
 		-git diff <commit_number> <filename>: looks at differences between current state (HEAD) and the given commit
+
+blabla
