@@ -12,3 +12,5 @@
 		-git diff <commit_number> <filename>: looks at differences between current state (HEAD) and the given commit
 
 blabla
+blabla
+blabla
