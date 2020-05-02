@@ -1,4 +1,5 @@
 #Memento git
+
 - git init: create a git repository in current directory (you should only do this once in a repository, i.e. no nested git repositories)
 - git status: tells you what is going on
 - git add <filename>: put a file in the staging area
@@ -10,3 +11,12 @@
 - git diff <filename>:looks at differences between current state and previous commits
 		-git diff HEAD~2 <filename>: looks at differences between current state (HEAD) and the last 2 commits 
 		-git diff <commit_number> <filename>: looks at differences between current state (HEAD) and the given commit
+- git checkout <commit_number> <filename>: moves back to the status in the given commit
+- git restore <filename>:restore file before changes for an unstaged file
+
+
+Ignoring files
+* Create a .gitignore file with Sublime in the current directory.
+	subl .gitignore
+* Write in the .gitignore file the names of all the files you don't want to follow (whole filenames or regular expressions).
+* Stage (add) and push (commit) the  .gitignore file on the master branch.
