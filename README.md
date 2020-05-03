@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # My git Memento
+=======
+# Brief Memento git
+>>>>>>> a770c1e0f0357175802fa63cd2d6fd3513aad3fa
 
 `To begin with`
 - git init: create a git repository in current directory (you should only do this once in a repository, i.e. no nested git repositories)
