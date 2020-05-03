@@ -1,8 +1,5 @@
 <<<<<<< HEAD
 # My git Memento
-=======
-# Brief Memento git
->>>>>>> a770c1e0f0357175802fa63cd2d6fd3513aad3fa
 
 `To begin with`
 - git init: create a git repository in current directory (you should only do this once in a repository, i.e. no nested git repositories)
@@ -33,3 +30,7 @@ NB: Dont't forget to add and commit afterwards if you want to save the restored 
 * Stage (add) and push (commit) the  .gitignore file on the master branch.
 
 `Conflicts`
+When there are two different versions on your machine and GitHub and the git pull origin master won't work (conflicts between versions)
+* Solve conflicts with a GUI.
+* Redo a commit on your local machine.
+* Redo a push.
