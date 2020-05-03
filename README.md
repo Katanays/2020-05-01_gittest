@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # My git Memento
 
 `To begin with`
