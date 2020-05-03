@@ -1,4 +1,4 @@
-# Memento git
+# My git Memento
 
 `To begin with`
 - git init: create a git repository in current directory (you should only do this once in a repository, i.e. no nested git repositories)
@@ -28,3 +28,4 @@ NB: Dont't forget to add and commit afterwards if you want to save the restored 
 * Write in the .gitignore file the names of all the files you don't want to follow (whole filenames or regular expressions).
 * Stage (add) and push (commit) the  .gitignore file on the master branch.
 
+`Conflicts`
