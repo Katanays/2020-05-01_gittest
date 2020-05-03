@@ -1,4 +1,4 @@
-# My git Memento
+# Git Basics
 
 `To begin with`
 - git init: create a git repository in current directory (you should only do this once in a repository, i.e. no nested git repositories)
